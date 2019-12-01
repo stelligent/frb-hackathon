@@ -12,6 +12,10 @@ A sample CloudFormation file for you so you can deploy a basic Cloud9 IDE setup 
 - Once deployed through CloudFormation, open _Cloud9Endpoint_ output in your browser and click _Open IDE_.
 - Consult CloudFormation documentation on how to deploy the IDE with this YAML file.
 
+![Cloud9Endpoint output in CloudFormation console](images/cloud9-demo-cfn.png)
+
+![Cloud9Endpoint page in Cloud9 console](images/Cloud9Endpoint.png)
+
 ### `cloud9-cdk.js`
 
 A CDK stack that generates `cloud9-cfn.yml`. If you prefer CDK, you may use this code, otherwise skip it.
