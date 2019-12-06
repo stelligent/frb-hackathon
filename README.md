@@ -1,8 +1,16 @@
-# frb-hackathon-cloud9-demo
+# frb-hackathon
 
-this is a resource dump of FRB hackathon cloud9 presentation
+this is a resource dump of FRB hackathon webinars
 
 ## in this repo...
+
+### `12_3_2019 Webinar - Building Apps in AWS`
+
+Recording of the AWS Primer webinar presented on 12/3/2019
+
+### `12_5_2019 Webinar - ML Apps using AWS API`
+
+Recording of the AWS ML webinar presented on 12/5/2019 + its data files
 
 ### `cloud9-cfn.yml`
 
